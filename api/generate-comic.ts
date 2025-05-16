@@ -69,7 +69,7 @@ function getFunnyPlaceholder(index: number) {
     return `https://dummyimage.com/512x512/${bg}/${textColor}.png&text=${text}`;
 }
 
-export default async function handler(req: VercelRequest, res: VercelResponse) {
+export default async (req: VercelRequest, res: VercelResponse) => {
     const { code, vibe } = req.body;
 
     if (!code || !vibe) {
@@ -197,4 +197,4 @@ Only return the JSON array. Do not include explanations.
         console.error("Comic generation failed:", err);
         res.status(500).json({ error: "Internal server error" });
     }
-}
+};

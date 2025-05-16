@@ -6,7 +6,7 @@ const token = process.env.GITHUB_TOKEN!;
 const endpoint = "https://models.github.ai/inference";
 const model = "openai/gpt-4.1";
 
-export default async function handler(req: VercelRequest, res: VercelResponse) {
+export default async (req: VercelRequest, res: VercelResponse) => {
     const { code, mode } = req.body;
 
     if (!code || !["praise", "roast"].includes(mode)) {
@@ -58,4 +58,4 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         console.error("Serverless function error:", err);
         res.status(500).json({ error: "Internal error generating response" });
     }
-}
+};
