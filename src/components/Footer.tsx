@@ -1,4 +1,3 @@
-import React from "react";
 import { Github, Heart } from "lucide-react";
 
 const Footer = () => {
@@ -11,7 +10,7 @@ const Footer = () => {
                     </p>
                     <div className="flex items-center gap-4">
                         <a
-                            href="#"
+                            href="https://github.com/anandpanda/Code-Fodd/"
                             className="flex items-center gap-2 text-gray-400 hover:text-purple-400 transition-colors"
                             aria-label="GitHub Repository"
                         >
