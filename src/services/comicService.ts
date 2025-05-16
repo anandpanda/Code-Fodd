@@ -1,7 +1,7 @@
 import { Comic, ComicVibe } from "../types";
 
 export const generateComic = async (code: string, vibe: ComicVibe): Promise<Comic> => {
-  const res = await fetch('/api/generate-comic', {
+  const res = await fetch('/api/generate-comic.ts', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ code, vibe }),

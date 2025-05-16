@@ -1,5 +1,5 @@
 export const generateTextResponse = async (code: string, mode: 'praise' | 'roast'): Promise<string> => {
-  const res = await fetch('/api/praise-roast', {
+  const res = await fetch('/api/praise-roast.ts', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ code, mode }),
