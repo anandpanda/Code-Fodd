@@ -83,7 +83,7 @@ ${intro}
 
 You're a comic screenwriter collaborating with an AI image model.
 
-Generate a comic with 3 panels based on the following code or logic description.
+Generate a comic with 3 to 6 panels based on the following code or logic description.
 
 Vibe: ${vibe}
 Code or logic:
