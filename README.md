@@ -30,7 +30,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/code-fodd.git
+git clone https://github.com/anandpanda/code-fodd.git
 cd code-fodd
 npm install
 ```
