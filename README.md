@@ -4,6 +4,11 @@
 
 ---
 
+## Snapshots
+![image](https://github.com/user-attachments/assets/c6f118fc-392d-4926-a051-9bfa8b777c9c)
+![image](https://github.com/user-attachments/assets/a9618fb0-72e2-4b63-aa1c-1a7a7431564b)
+
+
 ## Features
 
 - 🎨 Generate **3 to 6-panel comics** from code or logic descriptions  
