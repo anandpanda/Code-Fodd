@@ -5,6 +5,9 @@
 [Deployed Project Link](https://code-fodd.vercel.app/)
 
 ## Snapshots
+
+> **Heads up! Comic Mode isn't previewed above to help save Hugging Face free credits. Please try out Comic Mode yourself for the full experience!**
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6f118fc-392d-4926-a051-9bfa8b777c9c" width="80%" />
 </p>
@@ -15,7 +18,6 @@
   <img src="https://github.com/user-attachments/assets/675c9ae2-349e-4b8b-8ca2-5efc8aad1ae8" width="80%" />
 </p>
 
-> **Heads up! Comic Mode isn't previewed above to help save Hugging Face free credits. Please try out Comic Mode yourself for the full experience!**
 
 ## Project Overview
 
