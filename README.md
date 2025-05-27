@@ -7,8 +7,15 @@
 ---
 
 ## Snapshots
-![image](https://github.com/user-attachments/assets/c6f118fc-392d-4926-a051-9bfa8b777c9c)
-![image](https://github.com/user-attachments/assets/a9618fb0-72e2-4b63-aa1c-1a7a7431564b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6f118fc-392d-4926-a051-9bfa8b777c9c" width="65%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9618fb0-72e2-4b63-aa1c-1a7a7431564b" width="65%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/675c9ae2-349e-4b8b-8ca2-5efc8aad1ae8" width="65%" />
+</p>
 
 
 ## Features
@@ -65,4 +72,4 @@ vercel dev
 - This app requires **private API keys** to work properly (GitHub AI Inference & Hugging Face tokens).  
 - **You must obtain your own API keys** by signing up on the respective platforms and set them in a `.env` file.  
 - For easy deployment and serverless backend support, I recommend using [Vercel](https://vercel.com/), but you can adapt to other Node.js hosting if needed.  
-- No API keys are stored in this repo for security reasons. 
+- No API keys are stored in this repo for security reasons.
