@@ -1,5 +1,7 @@
 # Code Fodd 🚀
 
+## Live Demo - [Deployed Project Link](https://code-fodd.vercel.app/)
+
 **Code Fodd** is a fun, AI-powered comic generator that transforms your code snippets, algorithms, or logic descriptions into hilarious or heartfelt comic strips. Whether you want to **praise**, **roast**, or **turn your code into a comic**, Code Fodd brings your dev stories to life with style!
 
 ---
